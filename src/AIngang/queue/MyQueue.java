@@ -1,4 +1,4 @@
-package AIngang;
+package AIngang.queue;
 
 import java.util.ArrayList;
 import java.util.Scanner;
