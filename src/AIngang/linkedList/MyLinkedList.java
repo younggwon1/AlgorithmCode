@@ -1,4 +1,4 @@
-package AIngang;
+package AIngang.linkedList;
 
 public class MyLinkedList<T> {
 
