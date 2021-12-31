@@ -1,4 +1,4 @@
-package AIngang;
+package AIngang.stack;
 
 import java.util.ArrayList;
 
