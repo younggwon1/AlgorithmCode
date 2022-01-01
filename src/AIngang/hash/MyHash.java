@@ -1,4 +1,4 @@
-package AIngang;
+package AIngang.hash;
 
 public class MyHash {
     public Slot[] hashTable;
