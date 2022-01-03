@@ -1,9 +1,9 @@
-package AIngang;
+package AIngang.tree;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Node{
+class Node{
     Node left;
     Node right;
     int value;
